@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+export CLICOLOR=1
+export LSCOLORS=ExFxBxDxCxegedabagacad
+# TERMINAL PROMPT
+PS1="\[\e[0;93m\]\u\[\e[m\]"    # username
+
+export PS1;
